@@ -1,11 +1,13 @@
 So what ist done here:
 - 
-1. Download virtualbox image with IE11 on Windows 7 (~ 5GiB)
+1. Download virtualbox image with IE11 on Windows 7 x86-32 Bit (~ 5GiB)
+
+Or Download Win10 x86-64 Bit with Edge and IE11 from https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 2. Unzip the official image from MS
 3. Install virtualbox and virtualbox extensions
-4. Import image to virtualbox (25-30 GiB)
+4. Import image to virtualbox (~ 15-30 GiB at the start)
 5. Create snapshot
-6. User: IE11 and Password: Passw0rd!
+6. User: IEUser and Password: Passw0rd!
 7. Deleting packed and unpacked downloaded files
 
 Use the snapshot to start again after 90 days trial (but if you have a working Win7 key just activate with this, ;)).
